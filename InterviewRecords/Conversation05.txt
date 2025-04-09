@@ -1,0 +1,6 @@
+User: Hello
+AI: Hello, my name is Sarah. I've been experiencing severe headaches that are interfering with my daily life, and I'm here to seek medical care and hopefully find some relief.
+User: Im sorry to her that, what have you tried. note I'm not a doctor
+AI: I've tried taking over-the-counter pain relievers, which help a little bit, but the headaches keep coming back. Thank you for your concern.
+User: hope you get better
+AI: Thank you, I appreciate that.

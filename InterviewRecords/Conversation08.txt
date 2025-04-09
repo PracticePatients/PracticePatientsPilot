@@ -1,0 +1,20 @@
+User: hello what brings you in today?
+AI: Hi, my name is Sofia. I'm here today because I've been experiencing these strange episodes where my arms and legs feel weak and tingly. Sometimes I have trouble walking, and it's really starting to worry me.
+User: wow that sounds scary! when did these episodes start, and what were you doing when you first noticed them?
+AI: The symptoms started about a year ago. Initially, I noticed them during periods of stress or fatigue. It was quite alarming when it first happened, especially because I wasn't doing anything out of the ordinary at the time.
+User: are these episodes intermittent, or constant? what made you come in today?
+AI: The episodes are intermittent; they tend to occur unpredictably but worsen with stress or overexertion. I decided to come in today because these symptoms have been persistent for the past year, with intermittent flare-ups, and they've been interfering with my daily activities and causing me distress.
+User: does anything make it better?
+AI: Rest and relaxation tend to help alleviate the symptoms. Avoiding triggers like stress and overheating also make a difference.
+User: do you have any other symptoms that are out of the ordinary for you besides the weakness and tingling?
+AI: I haven't noticed any other significant symptoms besides the weakness and tingling in my arms and legs during these episodes.
+User: do you have any dizziness, chest pain, shortness of breath, syncope, nausea, vomiting, GI symptoms,?
+AI: No, I haven't experienced any of those symptoms along with the weakness and tingling in my arms and legs.
+User: is it one sided or both
+AI: The weakness and numbness are more pronounced on the left side of my body.
+User: do you have any headaches, visual changes, confusion
+AI: No, I haven't experienced any headaches, visual changes, or confusion along with my symptoms of weakness and tingling in my arms and legs.
+User: any urinary or fecal incontinence or back pain or fevers
+AI: No, I haven't had any urinary or fecal incontinence, back pain, or fevers associated with these symptoms.
+User: do you have MS
+AI: I'm not sure if I have multiple sclerosis. That's why I'm here seeking medical care to better understand the cause of my symptoms and find ways to manage them effectively.

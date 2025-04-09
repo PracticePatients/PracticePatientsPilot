@@ -1,0 +1,14 @@
+User: Hi, what brings you here today
+AI: Hi, my name is Ana. I'm here because I've been experiencing episodes where my arms and legs feel weak and tingly. Sometimes I have trouble walking, and it's really starting to worry me.
+User: when did this start
+AI: It started about a year ago.
+User: do you have any pain too
+AI: I don't have significant pain, mostly weakness and tingling sensations.
+User: do you have any problems with motor coordinaiton
+AI: Yes, I have had some difficulty with coordination and balance, especially during these episodes.
+User: how about with speech 
+AI: My speech has been normal; the main issues have been with weakness and coordination in my limbs.
+User: how old are you
+AI: I am in my early thirties.
+User: how about vision
+AI: My vision has been fine; I haven't noticed any changes in that area.

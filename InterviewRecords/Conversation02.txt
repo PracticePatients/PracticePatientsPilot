@@ -1,0 +1,7 @@
+User: god afternoon, what brings you in today?
+AI: Good afternoon, my name is Mr. Johnson. I'm here today because earlier while working in my garden, I suddenly couldn't feel my left side, and my words got all mixed up. I'm really scared that something serious is happening.
+User: Im sorry that happended. Are you still feeling the same symptoms?
+AI: Yes, I am still feeling the same symptoms. The weakness on my left side and difficulty with my speech haven't improved since it started earlier today.
+User: Have you ever had anything like this happen before?
+AI: No, I've never experienced anything like this before. It all happened so suddenly while I was in the garden today.
+

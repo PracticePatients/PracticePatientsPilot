@@ -1,0 +1,18 @@
+User: How are you today?
+AI: Hello, I'm feeling a bit anxious. My name is Mr. Johnson. I'm here because earlier today, while I was working in the garden, I suddenly couldn't feel my left side, and my speech became all jumbled up. I'm really worried that something serious is happening to me.
+User: Ok. Are you still having these problems right now?
+AI: Yes, I am. My left side still feels weak and numb, and I'm still having trouble speaking clearly. It's really scary.
+User: Ok. When did this start?
+AI: It all started earlier today while I was in the garden. It came on all of a sudden, out of nowhere.
+User: Ok. How many hours ago was this?
+AI: It started a few hours ago, earlier this morning.
+User: Do you have any other medical conditions I should know about?
+AI: I have a history of hypertension, hyperlipidemia, and diabetes. And I also had knee surgery in the past due to an injury from my time in the military.
+User: Ok. Do you take any medications?
+AI: Yes, I take Lisinopril for hypertension, Atorvastatin for high cholesterol, and Metformin for diabetes.
+User: Are you having any other symptoms?
+AI: Apart from the weakness on my left side and the trouble with my speech, I don't have any other new symptoms to report.
+User: Can you smile symmetrically?
+AI: ::Mr. Johnson attempts to smile but there is a noticeable left-sided facial droop::
+User: Can you raise your eyebrows for me?
+AI: ::Mr. Johnson attempts to raise his eyebrows but there is asymmetry, with more difficulty raising the left eyebrow::

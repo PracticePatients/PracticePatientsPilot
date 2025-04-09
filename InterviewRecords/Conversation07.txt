@@ -1,0 +1,6 @@
+User: why are you here
+AI: Hello, my name is Sarah. I'm here because I've been experiencing excruciating, shooting pain in my face that's been really affecting my ability to eat and speak. It's gotten quite difficult to manage, so I thought it was best to seek medical care.
+User: how long has this been going on
+AI: The pain in my face started about six months ago, and it has been gradually getting worse since then.
+User: what parts of your face is the pain felt
+AI: The pain is mainly felt on the right side of my face, particularly around my jaw and cheek. It radiates along the trigeminal nerve distribution.

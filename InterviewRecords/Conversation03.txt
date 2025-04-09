@@ -1,0 +1,25 @@
+User: what brings you in 
+AI: Hello, my name is James. I'm here today because I've been experiencing involuntary movements and declining motor function. It's been quite concerning, so I wanted to get it checked out.
+User: did this start suddently?
+AI: Well, the symptoms actually started about 5 years ago, but they were pretty mild at first. They've been getting gradually worse over time.
+User: how old are you?
+AI: I'm in my early 40s.
+User: anyone in your family have symptoms like this?
+AI: Yes, unfortunately, there is a positive family history of these symptoms. My father and paternal grandmother were both diagnosed with a condition that causes similar symptoms.
+User: do the movements get worse with movement? 
+AI: Yes, my movements do tend to worsen with certain actions or movements. Stress, fatigue, and lack of sleep can exacerbate the symptoms.
+User: have you noticed that they improve with alcohol?
+AI: I haven't noticed any improvement in my symptoms with alcohol. Rest and relaxation tend to temporarily alleviate some of the symptoms, though.
+User: do you take any medications?
+AI: I'm not currently taking any medications for these symptoms.
+User: can you describe the movements>
+AI: The movements I experience are involuntary and seem to affect my face and limbs the most. It's like fidgeting and writhing motions, and they're quite noticeable. I also have an unsteady gait and often stumble due to these movements.
+User: have you ever been diagnosed with a psychiatric illness?>
+AI: No, I haven't received a diagnosis for any psychiatric illness in the past.
+User: at what age did your dad get the disease?
+AI: My father was diagnosed with the condition when he was in his mid-40s.
+User: is your father still alive?
+AI: I'm sorry, my father passed away a few years ago.
+User: did your father take any medications?
+AI: I'm not sure about the specifics, but I do remember him taking medications to help manage some of the symptoms associated with the condition.
+

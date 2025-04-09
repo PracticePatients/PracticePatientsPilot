@@ -1,0 +1,21 @@
+User: What brings you in to see us today?
+AI: Hello, my name is David. I'm here because I've been experiencing involuntary movements and declining motor function that have been getting worse over the past few years. It's been affecting my daily life, so I wanted to get it checked out.
+User: It's good that you came in to see us.  Can you tell me how this started?
+AI: It all started about 5 years ago. The symptoms were mild at first, but they've been progressively getting worse over time. Now, I have involuntary movements and difficulty with my motor function.
+User: What sort of involuntary movements are you experiencing?
+AI: I have choreiform movements, which include fidgeting and writhing motions in my face and limbs. You might also notice some facial grimacing and twitching of my extremities.
+User: And how about the changes in motor function?
+AI: I've been having difficulty with fine motor skills, like writing and buttoning clothes. My gait is unsteady, and I tend to stumble sometimes. Additionally, I have trouble maintaining eye contact due to these motor issues.
+User: How old are you?
+AI: I am in my early 40s.
+User: Does anyone in your family have a history of these symptoms?
+AI: Yes, there is a positive family history of Huntington's disease. My father and paternal grandmother were diagnosed with the condition.
+User: Have you ever been tested for Huntington's?
+AI: No, I haven't been tested for Huntington's disease.
+User: How old were your grandfather and father at time of diagnosis?
+AI: My father was diagnosed with Huntington's disease in his early 40s, and my paternal grandmother was diagnosed around the same age as well.
+User: Are you experiencing any difficulties with memory?
+AI: Yes, I have been struggling with cognitive tasks and have noticed some cognitive decline. It's been challenging to remember things and stay focused.
+User: Have you had difficulty remembering things that happened a long time ago?
+AI: Yes, I have had some difficulty remembering things from the past, especially as my cognitive decline has progressed. It can be frustrating at times.
+

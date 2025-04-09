@@ -1,0 +1,13 @@
+User: What brings you in today?
+AI: Hello, my name is Mr. Smith. I'm here today because I've been noticing these tremors in my hands recently, and it's starting to worry me. I'm seeking medical care to understand what's going on and get some advice on managing these symptoms.
+User: How long have they been going on? does anything make them better or worse?
+AI: The tremors in my hands started about 6 months ago. They seem to worsen with stress, fatigue, and caffeine intake. However, they do improve with rest and relaxation.
+User: how would you describe them? or they localized to a specific area or all over?
+AI: The tremors mainly affect my hands but sometimes extend to my arms. They are rhythmic and worsen with intentional movement.
+User: have you had this in the past?
+AI: No, this is the first time I've experienced these tremors in my hands.
+User: any family history of parkinsons disease?
+AI: Yes, my father had Parkinson's disease.
+User: any drug, alcohol, or tobacco use?
+AI: I am a non-smoker, and I consume alcohol moderately. I do not use any drugs.
+
