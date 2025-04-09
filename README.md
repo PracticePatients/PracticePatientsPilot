@@ -1,6 +1,6 @@
 # PracticePatientsPilot
 
-Repository for patient scripts and user interactions for the PracticePatients Automated Standardized Patient pilot project.
+Repository for patient scripts and user interactions for the PracticePatients Automated Standardized Patient pilot project.  
 The automated patient is available for conversation at PracticePatients.ai
 
 **PatientScripts/** directory contains the metaprompts to elicit automated standardized patient behavior for eight neurological pathologies   
